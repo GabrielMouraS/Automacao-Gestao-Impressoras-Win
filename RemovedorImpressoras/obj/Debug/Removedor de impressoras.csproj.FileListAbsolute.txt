@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\bin\Debug\RemovedorImpressoras.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\bin\Debug\RemovedorImpressoras.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\bin\Debug\RemovedorImpressoras.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\bin\Debug\pt-BR\RemovedorImpressoras.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\Removedor de impressoras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\PrinterManager.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\RemovedorImpressoras.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\PrinterManager.Form1.pt-BR.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\Removedor de impressoras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\pt-BR\RemovedorImpressoras.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\RemovedorImpressoras.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Removedor_Impressoras\RemovedorImpressoras\obj\Debug\RemovedorImpressoras.pdb

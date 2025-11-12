@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnRefresh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="&gt;&gt;btnRefresh.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chkSelectAll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="chkSelectAll.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 17</value>
+  </data>
+  <data name="btnRemove.Location" type="System.Drawing.Point, System.Drawing">
+    <value>322, 360</value>
+  </data>
+  <data name="&gt;&gt;btnRemove.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnRemove.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="chkSelectAll.Text" xml:space="preserve">
+    <value>Selecionar / Desselecionar tudo</value>
+  </data>
+  <data name="&gt;&gt;clbPrinters.Name" xml:space="preserve">
+    <value>clbPrinters</value>
+  </data>
+  <data name="&gt;&gt;btnRemove.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnRemove.Text" xml:space="preserve">
+    <value>Remover Selecionadas</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>484, 411</value>
+  </data>
+  <data name="btnRefresh.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="clbPrinters.Size" type="System.Drawing.Size, System.Drawing">
+    <value>460, 304</value>
+  </data>
+  <data name="chkSelectAll.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chkSelectAll.Name" xml:space="preserve">
+    <value>chkSelectAll</value>
+  </data>
+  <data name="&gt;&gt;chkSelectAll.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnRemove.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 30</value>
+  </data>
+  <data name="btnRefresh.Text" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="&gt;&gt;clbPrinters.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkSelectAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkSelectAll.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnRemove.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRemove.Name" xml:space="preserve">
+    <value>btnRemove</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        0//Bycz/zdrd/9jl5/+5w8f/hI2Q/0dLTOwcHBxtAAAAGQAAAAIAAAAAAAAAAAAAAAp5eXr7tLS0/7W1
+        tf+2trb/T1BQ/0k8Nv9hWFL/ZnV1/2N1c/9ld3b/Ly/T/y8v0/8vL9P/Ly/T/2Nmaf8vL9P/Ly/T/y8v
+        0/8vL9P/V0lA/zc5Of+ZoKL/ztjb/9Xh4//H0dT/b3R7/05QWvofHyGSAAAAJQAAAAMAAAAAJycnO4qM
+        jf+wsbP/sLGz/6ytr/81NTb/PTYx/zIxMP9JTU7/S01M/0pOTv9HS0z/Ly/T/y8v0/8vL9P/Ly/T/y8v
+        0/8vL9P/Ly/T/0VEQv84Mi7/LzEx/2FjZP+Lk5b/0Nnc/6ev0v9kar7/V1x+/2Fkaf8UFxekAAAAHAAA
+        AAAtLS1ampqa/66wsv+usLP/ra+x/5OUlf+UlZb/m5qb/5WWmP+UlZb/kpSX/5KSlP+TlJT/Ly/T/y8v
+        0/8vL9P/Ly/T/y8v0/+WlZb/lJSW/5KUl/+TlJb/oKGh/5udnf9wd4D/Vlig/1NUt/91fcr/m6Sm/253
+        eP8OEBJ+AAAABzU3N3moqKj/ra6v/66ws/+tr7H/ra2t/6ysrP+rqKf/q6in/6inp/+np6j/paWl/6im
+        pv8vL9P/Ly/T/y8v0/8vL9P/Ly/T/6uop/+rqKf/qqin/6qnp/+ipaf/rK+v/6uvr/9gZHT/g42n/8LR
+        0/+NmZv/kp2e/zxAQMIAAAAGOj09jb/Bwf/HyMj/ysvM/8THyf/Dxcf/wsTE/7/Bwf+5urv/t7i4/7i5
+        uv+4ubr/Ly/T/y8v0/8vL9P/Ly/T/y8v0/8vL9P/Ly/T/8HCwv/BwcH/v7+//7i8vf+hpaX/pqus/7Gz
+        tP+GiYr/gY6Q/4iZm/+zwcP/IycnwwAAAAAvLy9M0tTV/+To7f/g5ur/5urt/+vv8v/t8PL/6O3v/+Tp
+        7P/h5ef/4ebp/y8v0/8vL9P/Ly/T/y8v0//j5+n/Ly/T/y8v0/8vL9P/Ly/T//Dz9v/z9Pb/8PLz/6Kl
+        p/+orK3/6Orr/6enp/kOEhJHRUxNkTVAQJAAAAAnAAAAAAAAAAaTmJjv2d7k/9ve5f/c4ub/5Ofr/+bo
+        7f/m6O3/4eXq/9Te3//W29//Ly/T/y8v0/8vL9P/297l/93i5f/i5ub/Ly/T/y8v0/8vL9P/Ly/T/+Lm
+        6f/e5ef/yM3P/8/U1//s8PL/cnR0wgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF5hYaDX3eH/1tzg/9ne
+        5P/g5Oj/4+bq/+Pn6//g5en/3OPm/y8v0/8vL9P/Ly/T/97k5v/g5+n/4+fo/+Xo6//j6ev/Ly/T/y8v
+        0/8vL9P/Ly/T/9zh5v/c4ub/3eXm/9Xa3P8zMzN5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKC0tObi8
+        vv/Q1tz/0tbc/83U2f98fn//goF//7G5uv8vL9P/Ly/T/y8v0/+hqq3/n6ms/5ujpv9paGf/cG9v/3Fw
+        cP+gpqj/Ly/T/y8v0/8vL9P/Ly/T/9zf5v/c4eb/mJqb/CgoKCYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAABh4qL18zU1//N1dj/ydLV/1laW/+FenT/Ly/T/y8v0/8vL9P/z9vd/87Z2//R3eH/ydTY/1ZV
+        Vf9fX1//Z2Vk/6WusP+TlJP/Ly/T/y8v0/8vL9P/Ly/T/9zh5v9WWVm9AAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAABXWVlqwsnN/8TM0f/Cys7/Xl5e/y8v0/8vL9P/Ly/T/9jn6v/Z6ez/3e3v/9vr
+        7f/Y6Or/u8XI/7vGyP+7xsj/zNnb/5qdnP9hU0v/uMHG/y8v0/8vL9P/Ly/T/ygoKEcAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAABsbGxOKjpDyq7G1/6qusf8vL9P/Ly/T/y8v0//b6+3/4/Dz/+Xy
+        9f/k8fX/4PDz/9/v8f/e7u//3u7v/93t7v/X5ur/m5+d/1pOSP+krrH/q7O2/y8v0/8vL9P/Ly/T/wAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEFBQSdDQ0NILy/T/y8v0/8vL9P/3+/w/+Lv
+        8//m9ff/6ff5/+j3+P/l9Pb/4PH0/9/v8f/f7/D/3+/w/9fn6v+gpKP/TkI62jY2NkwsLCxMAAAAAC8v
+        0/8vL9P/Ly/T/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8v0/8vL9P/Ly/T/5ea
+        mf/f8PL/5PL1/+35/P/v/f7/7/v+/+j3+f/l8/b/4PH0/9/w8v/f7/D/2ens/52jov9OQzznAAAAAAAA
+        AAAAAAAAAAAAAC8v0/8vL9P/Ly/T/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvL9P/Ly/T/y8v
+        0/9BOjWooqmq/9/w8//k8vX/7/z+//D////v/f7/6vj6/+Xy9f/j8fT/3/Dz/9/w8v/Y6Ov/qbGy/1VG
+        P/YAAAABAAAAAAAAAAAAAAAAAAAAAC8v0/8vL9P/Ly/T/wAAAAAAAAAAAAAAAAAAAAAAAAAALy/T/y8v
+        0/8vL9P/AAAAAEk/O7mgp6j/3+/w/+Lw8//p9/r/6/j7/+z5/P/r+Pv/5vb3/+Lw8//f7/D/3Ozu/9bm
+        6v+wubn/XUxD/wAAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAC8v0/8vL9P/Ly/T/wAAAAAAAAAAAAAAAC8v
+        0/8vL9P/Ly/T/wAAAAAAAAAATkM80JuWkv/Dwb7/wcG+/8G/vf/FxMH/w8LA/8PCwf/ExML/wcHA/729
+        u/+9vbz/ubq5/5qWkf9mU0n/AAAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8v0/8vL9P/Ly/T/wAA
+        AAAvL9P/Ly/T/y8v0/8AAAAAAAAAAAAAAABaST7flnpp/5Z6av+Ze2r/mntp/5t7af+hfmr/o4Br/6OB
+        bP+jgm7/ooJu/6F/a/+ffmv/m3tq/2pYTf8KAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8v
+        0/8vL9P/Ly/T/y8v0/8vL9P/AAAAAAAAAAAAAAAAAAAAADg0MrxeUEjQW05F0F5OR9BjVUzQaFdN0GlY
+        TdBoV03QY1JI0GJOQ9BgTkPQbVlM0GhZTtBlV0zQRDs01wAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAC8v0/8vL9P/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+  <data name="clbPrinters.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 41</value>
+  </data>
+  <data name="&gt;&gt;clbPrinters.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnRefresh.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;clbPrinters.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnRefresh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 360</value>
+  </data>
+  <data name="clbPrinters.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRefresh.Name" xml:space="preserve">
+    <value>btnRefresh</value>
+  </data>
+  <data name="&gt;&gt;chkSelectAll.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Gerenciador de Impressoras</value>
+  </data>
+  <data name="&gt;&gt;btnRefresh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>pt-BR</value>
+  </metadata>
+</root>
