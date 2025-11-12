@@ -8,6 +8,11 @@ Aplicativo em C# (Windows Forms) para **listar e remover impressoras em massa** 
 Facilitar a **remoção de várias impressoras de uma vez**, sem precisar abrir o Painel de Controle ou executar comandos manualmente.
 
 ---
+## Imagens do Programa
+
+<img width="482" height="439" alt="image" src="https://github.com/user-attachments/assets/157dc598-828f-404a-a69b-42f052cbadec" />
+
+---
 
 ## ⚙️ Funcionalidades
 ✅ Lista todas as impressoras instaladas no sistema.  
