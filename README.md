@@ -1,9 +1,11 @@
 # 🖨️ Gerenciador de Impressoras — WinForms C#
 
 Aplicativo em C# (Windows Forms) para **listar e remover impressoras em massa** de forma simples e rápida. 
+---
+##💡 Motivação
+Durante atendimentos de suporte técnico, percebi que o Windows muitas vezes trava filas de impressão ou corrompe drivers, exigindo remoção manual uma a uma. Criei esta ferramenta para automatizar a limpeza completa do spooler e drivers fantasmas em segundos, aumentando a eficiência do atendimento.
 
 ---
-
 ## 🎯 Objetivo
 Facilitar a **remoção de várias impressoras de uma vez**, sem precisar abrir o Painel de Controle ou executar comandos manualmente.
 
